@@ -11,8 +11,8 @@ whiskers:
 {#- based on vendetta/mocha.json -#}
 
 {
-  "name": "Catppuccin {{ flavor.name }} - {{ accent | capitalize }}",
-  "description": "Soothing pastel theme for the high-spirited!",
+  "name": "Chadppuccin {{ flavor.name }} - {{ accent | capitalize }}",
+  "description": "A warmer, more wholesome (unofficial!) catppuccin flavor",
   "authors": [
     {
       "name": "Catppuccin"
